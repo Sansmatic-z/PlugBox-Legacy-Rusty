@@ -1,5 +1,14 @@
 # ⚠️ PlugBox (LEGACY PROTOTYPE)
-**By Raj Mitra**
+**Built by Raj Mitra**
+
+---
+
+## 📖 Documentation
+- **[Credits](CREDITS.md)** - Original Architect information.
+- **[Architecture (ADR)](docs/adr/0001-wiring-sealing.md)** - Documentation of the "Wiring & Sealing" pattern.
+- **[License](LICENSE-MIT)** - MIT/Apache-2.0 Dual License.
+
+---
 
 > **NOTE:** This project is for ARCHIVAL purposes only. 
 > It was built as a "V1" prototype to explore the Python-Rust bridge. 
