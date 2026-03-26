@@ -1,0 +1,15 @@
+[package]
+name = "plugbox"
+version = "0.1.0"
+authors = ["Raj Mitra"]
+edition = "2021"
+description = "PlugBox — The Legacy FFI Prototype (V1)"
+license = "Apache-2.0"
+
+[lib]
+name = "plugbox"
+crate-type = ["cdylib"]
+
+[dependencies]
+csv = "1.4.0"
+pyo3 = { version = "0.22", features = ["extension-module"] }
